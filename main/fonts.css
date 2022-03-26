@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'sword';
+    src: url('../fonts/SwordskullPersonalUse-axqz5.ttf');
+}
+@font-face {
+    font-family: 'ComforterBrush-Regular';
+    src: url('../fonts/ComforterBrush-Regular.ttf');
+}
+@font-face {
+    font-family: 'Roboto-BoldItalic';
+    src: url('../fonts/roboto/Roboto-BoldItalic.ttf');
+}
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('../fonts/roboto/Roboto-Light.ttf');
+}
+@font-face {
+    font-family: 'Roboto-Thin';
+    src: url('../fonts/roboto/Roboto-Thin.ttf');
+}
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url('../fonts/roboto/Roboto-Medium.ttf');
+}
+@font-face {
+    font-family: 'Roboto-Italic';
+    src: url('../fonts/roboto/Roboto-Italic.ttf');
+}
